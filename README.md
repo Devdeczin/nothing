@@ -1,6 +1,6 @@
 # none
 > **a (suspiciously) versatile pocket knife (for terminals)**
-> BY [`MARKARQUIVE`](docs_and_stuff/markaquive.md)
+> by [`markarchive`](docs_and_stuff/markarquive.md)
 
 `NONE V0.000...`
 
