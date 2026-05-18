@@ -1,0 +1,20 @@
+# binários
+**/bin
+*.exe
+*.dll
+*.dylib
+
+# nim builds
+nimcache/
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# ide
+.vscode/
+.idea/
+
+# OS (por garantia)
+.DS_Store
+Thumbs.db
